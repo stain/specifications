@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 
-
 <!DOCTYPE rdf:RDF [
     <!ENTITY ao "http://purl.org/ao/" >
     <!ENTITY oa "http://www.w3.org/ns/oa#" >
